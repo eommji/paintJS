@@ -1,5 +1,5 @@
 # paintJS
-Painting Board made with VanillaJS ([by nomadcoder](https://academy.nomadcoders.co/p/vanilla-js-part-two-kr))
+Painting Board made with Javascript ([by nomadcoder](https://academy.nomadcoders.co/p/vanilla-js-part-two-kr))
 
 ## features
 - [X] Painting Board
